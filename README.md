@@ -51,7 +51,7 @@ export default tseslint.config({
 
 # postableblog
 
-初めての firebase
-blog 投稿機能
-認証機能
-楽しみ
+- はじめての firebase
+- blog 投稿機能
+- 認証機能
+- 楽しみ
